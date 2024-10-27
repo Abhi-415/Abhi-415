@@ -14,9 +14,6 @@
 <!--![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)--> 
 <!--![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)-->
 
-# 💻 LeetCode Stats:
-[![Abhishek's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Abhishek__415&theme=Dark)](https://leetcode.com/Abhishek__415/)
-
 # 📊 GitHub Stats:
 <!--<img align="right" width="300" src="https://user-images.githubusercontent.com/94922914/233508815-a208793f-7564-4ee8-9a01-1c487e22ccef.gif">-->
 ![Profile views](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi-415&theme=dark)
